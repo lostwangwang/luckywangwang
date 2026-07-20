@@ -9,8 +9,6 @@ I'm **Yao Gang**. Now I'm studying at [South China Normal University](https://ww
 
 Now I’m currently learning LLM, Vue, Go.
 
-This is my academic page: [Yao Gang's Academic Page](https://mtdww.github.io/ygg/).
-
 **Hobbies & Interests**:
 
 - Piano
